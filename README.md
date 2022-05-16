@@ -1,2 +1,2 @@
-# tedgar.github.io
+# tom-edgar.github.io
 This is my professional website. Testing
